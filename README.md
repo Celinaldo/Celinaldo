@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 - :books: I am currently studying System Analysis and Development at ISL Wyden College :desktop_computer: .
 - :briefcase: I'm specializing in mobile and back end.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celinaldo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celinaldo&layout=compact)](https://github.com/Celinaldo/github-readme-Estatísticas)
+
+
+
 ## Connect with me
 <a href="https://www.linkedin.com/in/celinaldo-ferreira/"><img src="https://img.icons8.com/ios-filled/70/000000/linkedin-2--v2.png"/></a>
 <a href="https://www.facebook.com/profile.php?id=100003820897150"><img src="https://img.icons8.com/ios-filled/50/000000/facebook--v2.png"/></a>

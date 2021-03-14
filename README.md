@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # I'am Celinaldo.
 
 - I live in 🇧🇷
-- :computer: At the moment I'm looking for a job, where I can still learn but.
+- :computer: At the moment I'm looking for a job, where I can learn and develop my skills as a developer.
 - :books: I am currently studying System Analysis and Development at ISL Wyden College :desktop_computer: .
 - :briefcase: I'm specializing in mobile and back end.
 
